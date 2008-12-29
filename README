@@ -1,0 +1,13 @@
+This is a user style sheet to do what it can to avoid clickjacking.
+
+Clickjacking or, more formally, user interface redressing, is a
+class of web-based security vulnerabilities similar to phishing
+scams. The technique uses web standards to trick unsuspecting
+victims into performing actions they were not intending to. A
+dramatic demo can be seen at
+
+    http://www.planb-security.net/notclickjacking/iframetrick.html
+
+The clickjane.css file is a user style sheet that does its best
+to ensure that any possible clickjacking attempts are immediately
+visible instead of remaining invisible.
